@@ -19,6 +19,13 @@ node_modules/
 
 .env
 
+---
+to navigate frontend
+```
+--prefix frontend
+```
+---
+
 ## github
 ```
 rm -rf .git
