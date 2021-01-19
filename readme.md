@@ -25,6 +25,12 @@ to navigate frontend
 --prefix frontend
 ```
 ---
+---
+to run concurrently
+```
+--prefix frontend
+```
+---
 
 ## github
 ```
@@ -35,3 +41,8 @@ rm -rf .git
 ```
 ls -a
 ```
+---
+## mongoose stuff
+```
+ npm run data:import
+ ```
