@@ -1,5 +1,10 @@
 
+---
+---
+## full stack ecommerce app
+..
 
+---
 ## install
 ```
 npm init -y
@@ -46,3 +51,11 @@ ls -a
 ```
  npm run data:import
  ```
+ ---
+ ## frontend - dependencies
+ ```
+ npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension
+ ```
+
+ ---
+ ---
